@@ -82,7 +82,7 @@ function App() {
             </div>
 
             <div className="row ce_button">
-              <CalcButton onclick ={handleClear} value={"CE"}/>
+              <CalcButton onClick ={handleClear} value={"CE"}/>
             </div>
 
           </form>
